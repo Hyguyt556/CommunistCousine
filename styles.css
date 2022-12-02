@@ -19,7 +19,7 @@
 
     background-color: red;
 
-    font-size: 36px;
+    font-size: 6vh;
 
    
 }
@@ -33,13 +33,15 @@ body{
   -o-background-size: cover;
   background-size: cover;
 
+
 }
 
 h1.pagetitle{
-    font-size: 100px;
+    font-size: 6vh;
     color: white;
     background-color: red;
     text-align: center;
-    margin-top: 2in;
+    margin-top: 20vh;
+
 
 }
