@@ -38,10 +38,33 @@ body{
 
 h1.pagetitle{
     font-size: 6vh;
-    color: white;
+    color: rgb(85, 255, 0);
     background-color: red;
     text-align: center;
     margin-top: 20vh;
 
 
+}
+
+.phrase{
+    font-size: 3vh;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    margin-left: 45vh;
+    margin-right: 45vh;
+}
+
+.foodlist{
+    list-style: none;
+    font-size: 4vh;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    background-color: red;
+    color: yellow;
+    
+}
+
+img{
+    width: 45vw;
 }
